@@ -27,7 +27,7 @@ El notebook se divide en dos secciones principales:
 
 ## 🔬 Objetivo
 
-El objetivo general fue evaluar si una red neuronal puede aprender a replicar el filtrado de modos p aplicado clásicamente en el espacio k-omega, utilizando datos de intensidad de manchas solares.
+El objetivo general fue evaluar si una red neuronal puede aprender a replicar el filtrado de modos p aplicado clásicamente en el espacio k-omega, utilizando datos de intensidad.
 
 ## 📌 Observaciones
 
